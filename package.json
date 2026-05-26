@@ -1,0 +1,25 @@
+{
+  "name": "personal-web-page-with-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sentyee/personal-web-page-with-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sentyee/personal-web-page-with-json/issues"
+  },
+  "homepage": "https://github.com/Sentyee/personal-web-page-with-json#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
